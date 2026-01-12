@@ -1,6 +1,6 @@
 # Kaar
 
-* ⚙️ [Dotfiles](https://github.com/kaar/dotfiles)
+* ⚙️ [dotfiles](https://github.com/kaar/dotfiles)
 
 ## GitHub Activity
 
