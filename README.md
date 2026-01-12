@@ -1,3 +1,3 @@
 # Kaar
 
-* 📁[Dotfiles](https://github.com/kaar/dotfiles)
+* 📁 [Dotfiles](https://github.com/kaar/dotfiles)
